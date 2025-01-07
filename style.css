@@ -32,3 +32,7 @@ body{
     background-attachment: fixed;
     background-size: cover;
 }
+.about{
+    background: #313592;
+    border-radius: 10px;
+}
