@@ -36,3 +36,18 @@ body{
     background: #313592;
     border-radius: 10px;
 }
+#social-media{
+    background: #313552;
+}
+.media_link{
+    max-width: 12rem;
+    margin-left: 1rem;
+    border: 2px solid #f5ba09;
+    border-radius: 0.5rem;   
+}
+a{
+    color: whitesmoke;
+}
+a:hover{
+    text-decoration: none;
+}
